@@ -1,0 +1,57 @@
+==== The following calculation results ====
+Number A = 53263460
+Number B = 9950823
+Result A + B = 63214283
+  
+==== The following calculation results ====
+Number A = 53263460
+Number B = 9950823
+Result A - B = 43312637
+  
+==== The following calculation results ====
+Number A = 53263460
+Number B = 9950823
+Result A x B = 530015262827580
+  
+==== The following calculation results ====
+Number A = 53263460
+Number B = 9950823
+Result A / B = 5
+NumberRemainder = 3509345
+  
+==== The following calculation results ====
+Number A = 345797471312052448
+Number B = 3107
+Result A - B = 345797471312049341
+  
+==== The following calculation results ====
+Number A = 345797471312052448
+Number B = 3107
+Result A + B = 345797471312055555
+  
+==== The following calculation results ====
+Number A = 345797471312052448
+Number B = 3107
+Result A x B = 1074392743366546955936
+  
+==== The following calculation results ====
+Number A = 3522234
+Number B = 854762110963
+Result A / B = 0
+NumberRemainder = 3522234
+  
+==== The following calculation results ====
+Number A = 3522234
+Number B = 854762110963
+Result A - B = -854758588729
+  
+==== The following calculation results ====
+Number A = 3522234
+Number B = 854762110963
+Result A + B = 854765633197
+  
+==== The following calculation results ====
+Number A = 3522234
+Number B = 854762110963
+Result A x B = 3010672169145651342
+  
